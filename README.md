@@ -1,6 +1,6 @@
 # Alura Challenges BI
 
-O Alura Challenges BI consiste na resolução de <a href="https://www.alura.com.br/challenges/bi/semana-01-logistica" target="_blank"> problemas reais </a> durante 4 semanas através da criação de dashboards.
+O Alura Challenges BI consiste na resolução de <a href="https://www.alura.com.br/challenges/bi/semana-01-logistica" target="_blank"> problemas reais </a> durante 4 semanas através da criação de dashboards:
 
 - Semana 01: Dashboard de Logística
 
