@@ -10,6 +10,6 @@ O Alura Challenges BI consiste na resolução de <a href="https://www.alura.com.
 
 # Resolução Semana 01 
 
-https://app.powerbi.com/groups/me/reports/6255b55f-996b-4365-bbec-986a6bad50bc/ReportSection
+https://app.powerbi.com/view?r=eyJrIjoiZmFlYzU5MjEtOWI3Ni00OTQ5LTgwMWItNDFkMjcyNmRkOGM5IiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9
 
 ![image](https://user-images.githubusercontent.com/59601621/133063585-49850df5-b421-4d51-8aa0-d85e62029a2f.png)
