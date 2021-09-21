@@ -16,4 +16,4 @@ https://app.powerbi.com/view?r=eyJrIjoiZmFlYzU5MjEtOWI3Ni00OTQ5LTgwMWItNDFkMjcyN
 
 # Resolução Semana 02
 
-https://app.powerbi.com/groups/me/reports/86049a55-30bf-4a8d-a742-62bafe4702b2?ctid=78e5d098-8f56-4e34-a2b7-11341b4eb27f&pbi_source=linkShare
+https://app.powerbi.com/view?r=eyJrIjoiNjI5MTk3MWEtZWZjYi00NzIzLTllNzQtNzYxOTRmN2EyNmFkIiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9
