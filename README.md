@@ -14,7 +14,7 @@ A base de dados consistia em arquivos csv e foram calculadas as seguintes métri
 
 https://app.powerbi.com/view?r=eyJrIjoiZmFlYzU5MjEtOWI3Ni00OTQ5LTgwMWItNDFkMjcyNmRkOGM5IiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9
 
-# Resolução Semana 02
+<b>Resolução Semana 02 </b>
 
 A base de dados consistia em duas tabelas no formato JSON e foram calculadas as seguintes métricas: custo por click (CPC), ticket médio por dispositivo, ROAS, total de valor convertido em compras e valor convertido em compras por dia.
 
@@ -23,7 +23,7 @@ Foi exibido no dashboard data e hora de atualização e o relatório configurado
 https://app.powerbi.com/view?r=eyJrIjoiNjI5MTk3MWEtZWZjYi00NzIzLTllNzQtNzYxOTRmN2EyNmFkIiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9
 
 
-# Resolução Semana 03 e 04
+<b><font size="12">Resolução Semana 03 e 04</b></font>
 
 A base de dados consistia em um banco de dados no MySQL, portanto foi necessário restaurar o banco e conectá-lo ao Power BI.
 
