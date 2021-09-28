@@ -11,13 +11,13 @@ O Alura Challenges BI consiste na resolução de <a href="https://www.alura.com.
 
 <b>Resolução Semana 01</b> 
 
-A base de dados consistia em arquivos csv e foram calculadas as seguintes métricas: entregas no prazo, entregas atrasadas, veículos disponíveis para entrega, S2D (Ship to door), índice de ocorrências por estado e estoque disponível por categoria.
+Na construção do dashboard de logística, a base de dados consistia em arquivos csv e foram calculadas as seguintes métricas: entregas no prazo, entregas atrasadas, veículos disponíveis para entrega, S2D (Ship to door), índice de ocorrências por estado e estoque disponível por categoria.
 
 https://app.powerbi.com/view?r=eyJrIjoiZmFlYzU5MjEtOWI3Ni00OTQ5LTgwMWItNDFkMjcyNmRkOGM5IiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9
 
 <b>Resolução Semana 02 </b>
 
-A base de dados consistia em duas tabelas no formato JSON e foram calculadas as seguintes métricas: custo por click (CPC), ticket médio por dispositivo, ROAS, total de valor convertido em compras e valor convertido em compras por dia.
+Na construção do dashboard de marketing, a base de dados consistia em duas tabelas no formato JSON e foram calculadas as seguintes métricas: custo por click (CPC), ticket médio por dispositivo, ROAS, total de valor convertido em compras e valor convertido em compras por dia.
 
 Foi exibido no dashboard data e hora de atualização e o relatório configurado para atualizar todo dia útil às 9 horas da manhã. 
 
@@ -26,7 +26,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNjI5MTk3MWEtZWZjYi00NzIzLTllNzQtNzYxOTRmN
 
 <b>Resolução Semana 03 e 04</b>
 
-A base de dados consistia em um banco de dados no MySQL, portanto foi necessário restaurar o banco e conectá-lo ao Power BI.
+Na construção do dashboard financeiro, a base de dados consistia em um banco de dados no MySQL, portanto foi necessário restaurar o banco e conectá-lo ao Power BI.
 
 Após tratamento nos dados já no Power BI, foram calculadas as métricas custo, despesa, receita e lucro e foi realizado uma análise de cenário.
 Com a análise de cenário é possível simular as despesas e lucro da companhia com a variação do frete e impostos.
