@@ -11,7 +11,7 @@ O Alura Challenges BI consiste na resolução de <a href="https://www.alura.com.
 
 <b>Resolução Semana 01</b> 
 
-Na construção do dashboard de logística, a base de dados consistia em arquivos csv e foram calculadas as seguintes métricas: entregas no prazo, entregas atrasadas, veículos disponíveis para entrega, S2D (Ship to door), índice de ocorrências por estado e estoque disponível por categoria.
+Na construção do dashboard de logística, a base de dados estava em formato csv e, após tratamento, foram calculadas as seguintes métricas: entregas no prazo, entregas atrasadas, veículos disponíveis para entrega, S2D (Ship to door), índice de ocorrências por estado e estoque disponível por categoria.
 
 https://app.powerbi.com/view?r=eyJrIjoiZmFlYzU5MjEtOWI3Ni00OTQ5LTgwMWItNDFkMjcyNmRkOGM5IiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9
 
