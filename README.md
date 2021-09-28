@@ -10,13 +10,24 @@ O Alura Challenges BI consiste na resolução de <a href="https://www.alura.com.
 
 # Resolução Semana 01 
 
-https://app.powerbi.com/view?r=eyJrIjoiZmFlYzU5MjEtOWI3Ni00OTQ5LTgwMWItNDFkMjcyNmRkOGM5IiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9
+A base de dados consiste em arquivos csv e foram calculadas as seguintes métricas: entregas no prazo, entregas atrasadas, veículos disponíveis para entrega, S2D (Ship to door), índice de ocorrências por estado e estoque disponível por categoria.
 
-![image](https://user-images.githubusercontent.com/59601621/133063585-49850df5-b421-4d51-8aa0-d85e62029a2f.png)
+https://app.powerbi.com/view?r=eyJrIjoiZmFlYzU5MjEtOWI3Ni00OTQ5LTgwMWItNDFkMjcyNmRkOGM5IiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9
 
 # Resolução Semana 02
 
+A base de dados consiste em duas tabelas no formato JSON e foram calculadas as seguintes métricas: custo por click (CPC), ticket médio por dispositivo, ROAS, total de valor convertido em compras e valor convertido em compras por dia.
+
+Foi exibido no dashboard data e hora de atualização e o relatório configurado para atualizar todo dia útil às 9 horas da manhã. 
+
 https://app.powerbi.com/view?r=eyJrIjoiNjI5MTk3MWEtZWZjYi00NzIzLTllNzQtNzYxOTRmN2EyNmFkIiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9
 
-![image](https://user-images.githubusercontent.com/59601621/134162044-6511fab5-0542-4ae3-8da5-a6644a5573e8.png)
 
+# Resolução Semana 03 e 04
+
+A base de dados consiste em um banco de dados no MySQL, portanto foi necessário restaurar o banco e conectá-lo ao Power BI.
+
+Após tratamento nos dados já no Power BI, foram calculadas as métricas custo, despesa, receita e lucro e foi realizado uma análise de cenário.
+Com a análise de cenário é possível simular as despesas e lucro da companhia com a variação do frete e impostos.
+
+https://app.powerbi.com/view?r=eyJrIjoiZWQ2MWY1YTItNjdhZi00N2U5LTgyMTEtOWZmZTI0YzhlMDRiIiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9&pageName=ReportSection
