@@ -6,9 +6,9 @@ O Alura Challenges BI consiste na resolução de <a href="https://www.alura.com.
 
 - Semana 02: Dashboard de marketing para monitorar campanha em uma empresa de e-commerce
 
-- Semana 03 e 04: Dashboard tático financeiro e desenvolvimento de currículo com Power BI
+- Semana 03 e 04: Dashboard tático financeiro
 
-# Resolução Semana 01 
+<b>Resolução Semana 01</b> 
 
 A base de dados consistia em arquivos csv e foram calculadas as seguintes métricas: entregas no prazo, entregas atrasadas, veículos disponíveis para entrega, S2D (Ship to door), índice de ocorrências por estado e estoque disponível por categoria.
 
