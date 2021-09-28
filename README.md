@@ -23,7 +23,7 @@ Foi exibido no dashboard data e hora de atualização e o relatório configurado
 https://app.powerbi.com/view?r=eyJrIjoiNjI5MTk3MWEtZWZjYi00NzIzLTllNzQtNzYxOTRmN2EyNmFkIiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9
 
 
-<b><font size="12">Resolução Semana 03 e 04</b></font>
+<b><font size="14">Resolução Semana 03 e 04</b></font>
 
 A base de dados consistia em um banco de dados no MySQL, portanto foi necessário restaurar o banco e conectá-lo ao Power BI.
 
