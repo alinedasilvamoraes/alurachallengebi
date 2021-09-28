@@ -7,7 +7,7 @@ O Alura Challenges BI consiste na resolução de <a href="https://www.alura.com.
 - Semana 02: Dashboard de marketing para monitorar campanha em uma empresa de e-commerce
 
 - Semana 03 e 04: Dashboard tático financeiro
-
+<br><br>
 
 <b>Resolução Semana 01</b> 
 
