@@ -35,3 +35,4 @@ https://app.powerbi.com/view?r=eyJrIjoiZWQ2MWY1YTItNjdhZi00N2U5LTgyMTEtOWZmZTI0Y
 
 Currículo feito pelo Power BI
 https://app.powerbi.com/view?r=eyJrIjoiMDNmNWY5MjktN2E3Mi00MWYxLWI3OGYtZDczOThlYWUxNDQ2IiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9&pageName=ReportSection
+
