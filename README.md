@@ -6,7 +6,7 @@ O Alura Challenges BI consiste na resolução de <a href="https://www.alura.com.
 
 - Semana 02: Dashboard de marketing para monitorar campanha em uma empresa de e-commerce
 
-- Semana 03 e 04: Dashboard tático financeiro
+- Semana 03 e 04: Dashboard tático financeiro e currículo
 <br><br>
 
 <b>Resolução Semana 01</b> 
@@ -32,3 +32,6 @@ Após tratamento nos dados já no Power BI, foram calculadas as métricas custo,
 Com a análise de cenário é possível simular as despesas e lucro da companhia com a variação do frete e impostos.
 
 https://app.powerbi.com/view?r=eyJrIjoiZWQ2MWY1YTItNjdhZi00N2U5LTgyMTEtOWZmZTI0YzhlMDRiIiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9&pageName=ReportSection
+
+Currículo feito pelo Power BI
+https://app.powerbi.com/view?r=eyJrIjoiMDNmNWY5MjktN2E3Mi00MWYxLWI3OGYtZDczOThlYWUxNDQ2IiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9
