@@ -34,4 +34,4 @@ Com a análise de cenário é possível simular as despesas e lucro da companhia
 https://app.powerbi.com/view?r=eyJrIjoiZWQ2MWY1YTItNjdhZi00N2U5LTgyMTEtOWZmZTI0YzhlMDRiIiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9&pageName=ReportSection
 
 Currículo feito pelo Power BI
-https://app.powerbi.com/view?r=eyJrIjoiMDNmNWY5MjktN2E3Mi00MWYxLWI3OGYtZDczOThlYWUxNDQ2IiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9
+https://app.powerbi.com/view?r=eyJrIjoiMDNmNWY5MjktN2E3Mi00MWYxLWI3OGYtZDczOThlYWUxNDQ2IiwidCI6Ijc4ZTVkMDk4LThmNTYtNGUzNC1hMmI3LTExMzQxYjRlYjI3ZiJ9&pageName=ReportSection
